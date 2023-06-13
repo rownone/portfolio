@@ -15,7 +15,7 @@ export default function Home() {
        <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a className="navbar-brand js-scroll-trigger" href="#page-top">
                 <span className="d-block d-lg-none">Ronan Lee</span>
-                <span className="d-none d-lg-block"><img className="img-fluid img-profile rounded-circle mx-auto mb-2" src="/assets/img/1.jpg" alt="..." /></span>
+                <span className="d-none d-lg-block"><Image className="img-fluid img-profile rounded-circle mx-auto mb-2" src="/assets/img/1.jpg" alt="..." /></span>
             </a>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
             <div className="collapse navbar-collapse" id="navbarResponsive">
@@ -199,7 +199,7 @@ export default function Home() {
                             <div className="subheading mb-3">A5 Com Inc.</div>
                             <ul><li>Developed front-end websites using Ext JS framework</li>
 								<li>Conducted QA testing for assigned modules</li>
-								<li>Contributed to planning and implementing the software product's process flow</li>
+								<li>Contributed to planning and implementing the software product&apos;s process flow</li>
 								</ul>
 							
 							<div className="subheading mb-3">Project</div>
