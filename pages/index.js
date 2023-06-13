@@ -55,7 +55,8 @@ export default function Home() {
                             <h3 className="mb-0">Web Developer</h3>
                             <div className="subheading mb-3">Contrib.com</div>
                             
-							<ul>	
+							<ul>
+								<li>Developed chatbot AI with custom knowledge base</li>
 								<li>Led development of blockchain-integrated web applications</li>
 								<li>Created and deployed various contracts, including Non-Fungible Tokens (NFT), ERC20 Fungible Tokens, Lotteries, Voting systems, Airdrops, and Token Sales on Ethereum and Binance networks</li>
 								<li>Developed diverse website frameworks such as Leads, Bids, Eservice, Forums, For Sale platforms, Help Desks, Surveys, Redirects, and Wordpress websites, deployed across over 20,000 domains</li>
@@ -72,6 +73,10 @@ export default function Home() {
 							<div className="d-flex flex-column flex-md-row justify-content-between mb-5">
 								<div className="flex-grow-1">
 									<ul className="fa-ul mb-0">
+										<li>
+											<span className="fa-li"><i className="fas fa-check"></i></span>
+											<a target="_blank" rel="noreferrer" href="https://contrib.ai">applications.net</a>
+										</li>
 										<li>
 											<span className="fa-li"><i className="fas fa-check"></i></span>
 											<a target="_blank" rel="noreferrer" href="https://realtydao.com">realtydao.com</a>
@@ -96,7 +101,6 @@ export default function Home() {
 											<span className="fa-li"><i className="fas fa-check"></i></span>
 											<a target="_blank" rel="noreferrer" href="https://applications.com">applications.net</a>
 										</li>
-										
 										
 										
 									</ul>
@@ -139,7 +143,7 @@ export default function Home() {
 										</li>
 										<li>
 											<span className="fa-li"><i className="fas fa-check"></i></span>
-											<a target="_blank" rel="noreferrer" href="https://musicring.com">musicring.com</a>
+											<a target="_blank" rel="noreferrer" href="https://profilesuite.com/">profilesuite.com</a>
 										</li>
 										<li>
 											<span className="fa-li"><i className="fas fa-check"></i></span>
@@ -349,6 +353,10 @@ export default function Home() {
 								<li>
 									<span className="fa-li"><i className="fas fa-check"></i></span>
 									Nodejs
+								</li>
+								<li>
+									<span className="fa-li"><i className="fas fa-check"></i></span>
+									Python
 								</li>
 								<li>
 									<span className="fa-li"><i className="fas fa-check"></i></span>
