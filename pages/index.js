@@ -56,22 +56,15 @@ export default function Home() {
                             <div className="subheading mb-3">Contrib.com</div>
                             
 							<ul>	
-								<li>Lead developer for blockchain integrated web applications.</li>
-								<li>	Created and deployed contracts such as Non-Fungible Token (NFT), ERC20 Fungible Token, Lottery, Voting, Airdrop, and Token Sale in Ethereum and Binance network.
-								</li>
-								<li>	Developed different types of website framework such as Leads, Bid, Eservice, Forum, For Sale, Help Desk, Survey, Redirect, Wordpress and deployed in more than 20 thousands domains.
-								</li>
-								<li>	Created a Webscraper Firefox addons and Chrome extension.
-								</li>
-								<li>	Built Widget tools to manage and gather more leads for the company websites.
-								</li>
-								<li>	Developed and deployed API in a serverless compute service using AWS Lambda functions.
-								</li>
-								<li>	Built Task Manager application so that employees can easly manage and update all project tasks.
-								</li>
-								<li>	Developed Autoresponder application to update and send emails to the all leads gathered from framework websites.</li>
-								<li>	Manage Top Level Domains aquired from Handshake and created a user interface to easly participate in bidding and updates its records.
-							</li>
+								<li>Led development of blockchain-integrated web applications</li>
+								<li>Created and deployed various contracts, including Non-Fungible Tokens (NFT), ERC20 Fungible Tokens, Lotteries, Voting systems, Airdrops, and Token Sales on Ethereum and Binance networks</li>
+								<li>Developed diverse website frameworks such as Leads, Bids, Eservice, Forums, For Sale platforms, Help Desks, Surveys, Redirects, and Wordpress websites, deployed across over 20,000 domains</li>
+								<li>Designed and implemented Web Scraper add-ons for Firefox and Chrome</li>
+								<li>Constructed Widget tools to enhance lead management and acquisition for company websites</li>
+								<li>Developed and deployed APIs using serverless compute service with AWS Lambda functions</li>
+								<li>Built a Task Manager application to facilitate efficient project task management and updates for employees</li>
+								<li>Created an Autoresponder application for updating and sending emails to leads obtained from framework websites</li>
+								<li>Managed acquired Top Level Domains from Handshake, developing a user interface for easy participation in bidding and updating records</li>
 							</ul>
 							
 							<div className="subheading mb-3">Projects Developed</div>
@@ -180,8 +173,8 @@ export default function Home() {
                             <div className="subheading mb-3">Scanpointusa.com</div>
                             
 								<ul>
-									<li>Built Easy Admin Web application that manage documents and records for the company using C#.net for server side and Asp.net MVC for the client side.</li>
-									<li>Used Web Service to retrive and update serverside data.</li>
+									<li>Developed an Easy Admin web application using C#.NET for the server-side and ASP.NET MVC for the client-side, enabling efficient management of company documents and records</li>
+									<li>Implemented Web Services to retrieve and update server-side data</li>
 								</ul>
 							
 							<div className="subheading mb-3">Project</div>
@@ -204,9 +197,9 @@ export default function Home() {
                         <div className="flex-grow-1">
                             <h3 className="mb-0">Software Engineer</h3>
                             <div className="subheading mb-3">A5 Com Inc.</div>
-                            <ul><li>Provided front-end website development using Ext Js.</li>
-								<li>Responsible for QA testing per module assigned.</li>
-								<li>Participated in planning and implementing the process flow of the software product.</li>
+                            <ul><li>Developed front-end websites using Ext JS framework</li>
+								<li>Conducted QA testing for assigned modules</li>
+								<li>Contributed to planning and implementing the software product's process flow</li>
 								</ul>
 							
 							<div className="subheading mb-3">Project</div>
@@ -229,11 +222,11 @@ export default function Home() {
                         <div className="flex-grow-1">
                             <h3 className="mb-0">Web/Application Developer </h3>
                             <div className="subheading mb-3">iThink Technologies Inc.</div>
-                            <ul><li>	Developed business projects for web and windows base application depending on the client’s and system requirements from Project System Analyst.</li>
-							<li>Worked with a team of 3 to 5 members for each project.</li>
-							<li>Responsible for QA testing in each module assigned.</li>
-							<li>Created own Table in the database per module assigned.</li>
-							<li>Deployment, installation, maintenance and provided technical support in the client site area.</li>
+                            <ul><li>Developed web and window-based business projects based on client and system requirements as defined by the Project System Analyst</li>
+								<li>Collaborated with teams of 3 to 5 members for each project</li>
+								<li>Conducted QA testing for assigned modules</li>
+								<li>Created dedicated database tables for each assigned module</li>
+								<li>Handled deployment, installation, maintenance, and provided technical support on client sites</li>
 							</ul>
 							
 							<div className="subheading mb-3">Projects Developed</div>
