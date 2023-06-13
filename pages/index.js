@@ -75,7 +75,7 @@ export default function Home() {
 									<ul className="fa-ul mb-0">
 										<li>
 											<span className="fa-li"><i className="fas fa-check"></i></span>
-											<a target="_blank" rel="noreferrer" href="https://contrib.ai">applications.net</a>
+											<a target="_blank" rel="noreferrer" href="https://contrib.ai">contrib.ai</a>
 										</li>
 										<li>
 											<span className="fa-li"><i className="fas fa-check"></i></span>
@@ -177,7 +177,7 @@ export default function Home() {
                             <div className="subheading mb-3">Scanpointusa.com</div>
                             
 								<ul>
-									<li>Developed an Easy Admin web application using C#.NET for the server-side and ASP.NET MVC for the client-side, enabling efficient management of company documents and records</li>
+									<li>Developed an Easy File web application using C#.NET for the server-side and ASP.NET MVC for the client-side, enabling efficient management of company documents and records</li>
 									<li>Implemented Web Services to retrieve and update server-side data</li>
 								</ul>
 							
@@ -188,14 +188,14 @@ export default function Home() {
 									<ul className="fa-ul mb-0">
 										<li>
 											<span className="fa-li"><i className="fas fa-check"></i></span>
-											Easy Admin Web
+											Easy File Web
 										</li>
 										
 									</ul>
 								</div>
 							</div>
                         </div>
-                        <div className="flex-shrink-0"><span className="text-primary">April 2014 - September 2014</span></div>
+                        <div className="flex-shrink-0"><span className="text-primary">April 2014 - March 2015</span></div>
                     </div>
                     <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div className="flex-grow-1">
@@ -224,7 +224,7 @@ export default function Home() {
                     </div>
                     <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div className="flex-grow-1">
-                            <h3 className="mb-0">Web/Application Developer </h3>
+                            <h3 className="mb-0">Computer Programmer/Analyst</h3>
                             <div className="subheading mb-3">iThink Technologies Inc.</div>
                             <ul><li>Developed web and window-based business projects based on client and system requirements as defined by the Project System Analyst</li>
 								<li>Collaborated with teams of 3 to 5 members for each project</li>
