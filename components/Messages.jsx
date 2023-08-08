@@ -14,7 +14,7 @@ function Messages({onTyping, onNewMessageChange, newMessage, waiting, cookieValu
 			var element = document.getElementById("bottom-msg");
 			element.scrollIntoView({ behavior: "smooth", block: "end", inline: "nearest" });
 		// },500)
-		console.log('down')
+		
 	}, [scroll]);
 
 	var intervalId;
