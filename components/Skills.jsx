@@ -45,6 +45,10 @@ function Skills() {
                 </li>
                 <li>
                 <span className="fa-li"><i className="fas fa-check"></i></span>
+                Laravel
+                </li>
+                <li>
+                <span className="fa-li"><i className="fas fa-check"></i></span>
                 Wordpress
                 </li>
                 <li>
@@ -80,6 +84,10 @@ function Skills() {
             </li>
             <li>
                 <span className="fa-li"><i className="fas fa-check"></i></span>
+                Binance
+            </li>
+            <li>
+                <span className="fa-li"><i className="fas fa-check"></i></span>
                 Handshake
             </li>
             </ul>
@@ -100,6 +108,11 @@ function Skills() {
                 <span className="fa-li"><i className="fas fa-check"></i></span>
                 Oracle 8i/10g
                 </li>
+                <li>
+                <span className="fa-li"><i className="fas fa-check"></i></span>
+                PostgreSQL
+                </li>
+                
                 <li>
                 <span className="fa-li"><i className="fas fa-check"></i></span>
                 MS Access 
