@@ -25,32 +25,32 @@ function Experience() {
                 <div className="flex-grow-1">
                 <ul className="fa-ul mb-0">
                 <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://contrib.com">contrib.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://contrib.ai">contrib.ai</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://realtydao.com">realtydao.com</a>
                     </li>
                     
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://vnoc.com">vnoc.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://contrib.io">contrib.io</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://rdao.com">rdao.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://applications.com">applications.net</a>
                     </li>
                 </ul>
@@ -58,27 +58,27 @@ function Experience() {
                 <div className="flex-grow-1">
                 <ul className="fa-ul mb-0">
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://handyman.com">handyman.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://musicchallenge.com">musicchallenge.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://acting.com">acting.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://virtualinterns.com">virtualinterns.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://globalventures.com">globalventures.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://ichallenge.com">ichallenge.com</a>
                     </li>
                 </ul>
@@ -86,31 +86,31 @@ function Experience() {
                 <div className="flex-grow-1">
                 <ul className="fa-ul mb-0">
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://iconsultants.com">iconsultants.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://profilesuite.com/">profilesuite.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://venturecamp.com">venturecamp.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://streamblog.com">streamblog.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://muzicskool.com/">muzicskool.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://venturecamp.com">venturecamp.com</a>
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     <a target="_blank" rel="noreferrer" href="https://addons.mozilla.org/en-US/firefox/addon/vnoc-trackers/">WebTrackers</a>
                     </li>
                 </ul>
@@ -121,7 +121,7 @@ function Experience() {
         </div>
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-            <h3 className="mb-0">Web Developer</h3>
+            <h3 className="mb-0">Full Stack Web Developer</h3>
             <div className="subheading mb-3">Scanpointusa.com</div>
                 <ul>
                     <li>Developed an Easy File web application using C#.NET for the server-side and ASP.NET MVC for the client-side, enabling efficient management of company documents and records</li>
@@ -134,7 +134,7 @@ function Experience() {
                     <div className="flex-grow-1">
                     <ul className="fa-ul mb-0">
                         <li>
-                        <span className="fa-li"><i className="fas fa-check"></i></span>
+                        <span className="fa-li"><i className="fa fa-check"></i></span>
                         Easy File Web
                         </li>
                         
@@ -159,7 +159,7 @@ function Experience() {
                 <div className="flex-grow-1">
                     <ul className="fa-ul mb-0">
                     <li>
-                        <span className="fa-li"><i className="fas fa-check"></i></span>
+                        <span className="fa-li"><i className="fa fa-check"></i></span>
                         Iehip Digital Signage
                     </li>
                     
@@ -186,39 +186,39 @@ function Experience() {
                 <div className="flex-grow-1">
                 <ul className="fa-ul mb-0">
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     May Bank - Real Estate & Other Properties Owned & Acquired Management System (ROPOA) 
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     Globe Telecom – Loan Management System (LMS)
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     World Bank – Fixed Asset and Inventory System (FAIS)
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     Ford Philippines – Product Document Management System (PDMS)
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     Meralco – iFleet Management System (iFleet)
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     Bank of Commerce – Inventory and Fixed Asset Management System (IFAMS)
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     Borgs Photoshop – Inventory and Sales Management System (ISMS)
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     FoodZone Inc. – Inventory and Sales Management System (ISMS)
                     </li>
                     <li>
-                    <span className="fa-li"><i className="fas fa-check"></i></span>
+                    <span className="fa-li"><i className="fa fa-check"></i></span>
                     Odessa Inc. – Automated Financial System (AFS)
                     </li>
                     

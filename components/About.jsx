@@ -18,6 +18,12 @@ function About() {
                 Strong background in managing large domain portfolios and implementing serverless APIs. 
                 Adept at collaborating with cross-functional teams to deliver exceptional results.
             </p>
+            <div className="social-icons">
+                <a className="social-icon" target="_blank" href="https://www.linkedin.com/in/ronan-lee/"><i className="fa fa-linkedin-square"></i></a>
+                <a className="social-icon" target="_blank" href="https://github.com/rownone/"><i className="fa fa-github"></i></a>
+                <a className="social-icon" target="_blank" href="https://twitter.com/row_none"><i className="fa fa-twitter"></i></a>
+                <a className="social-icon" target="_blank" href="https://www.facebook.com/ronan.li.14"><i className="fa fa-facebook-f"></i></a>
+            </div>
         </div>
     </section>
 
