@@ -17,7 +17,7 @@ export default function Home() {
       <main>
         <div className="App">
           <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-              <a className="navbar-brand js-scroll-trigger" href="#page-top">
+              <a className="navbar-brand js-scroll-trigger" href="#about">
                 <span className="d-block d-lg-none">Ronan Lee</span>
                 <span className="d-none d-lg-block">
                   <Image className="img-fluid img-profile rounded-circle mx-auto mb-2" src="/1.webp" width={200}
