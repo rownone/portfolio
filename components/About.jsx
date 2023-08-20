@@ -13,7 +13,7 @@ function About() {
             
             <p className="lead mb-5">
                 I am a Web Developer with over 18 years of experience in developing, debugging, and deploying diverse software and web applications.
-				<br/>
+				<br/><br/>
 				In web development, I use Yii, CodeIgniter, Next.js, React.js, Web3, Python, jQuery, WordPress, HTML, CSS, and MySQL for databases. I have also utilized GIT and SVN to facilitate team-oriented development.
 				<br/><br/>
 				I have developed APIs using serverless compute services with AWS Lambda functions. I have deployed smart contracts on Ethereum and Binance networks for various projects and managed Top-Level Domains on (HNS) Handshake. I also created chatbot AI with custom knowledge base.
