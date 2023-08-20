@@ -12,11 +12,17 @@ function About() {
             </div>
             
             <p className="lead mb-5">
-                Highly skilled Web Developer with over 18 years of experience in developing, debugging, and deploying diverse web applications and projects. 
-                Proficient in programming languages, tools, and blockchain technologies. 
-                Demonstrated expertise in creating chatbot AI, deploying various smart contracts, and developing web scraper add-ons. 
-                Strong background in managing large domain portfolios and implementing serverless APIs. 
-                Adept at collaborating with cross-functional teams to deliver exceptional results.
+                I am a Web Developer with over 18 years of experience in developing, debugging, and deploying diverse software and web applications.
+				<br/>
+				In web development, I use Yii, CodeIgniter, Next.js, React.js, Web3, Python, jQuery, WordPress, HTML, CSS, and MySQL for databases. I have also utilized GIT and SVN to facilitate team-oriented development.
+				<br/>
+				I have developed APIs using serverless compute services with AWS Lambda functions. I have deployed smart contracts on Ethereum and Binance networks for various projects and managed Top-Level Domains on (HNS) Handshake.
+				<br/>
+				I can work independently, but I also thrive in a team environment where I can collaborate and contribute.
+				<br/>
+				I excel at resolving application problems; my colleagues can always rely on me when they are unable to fix bugs and glitches in their work. 
+				<br/>
+				I am passionate about coding and committed to delivering high-quality solutions.
             </p>
             <div className="social-icons">
                 <a className="social-icon" target="_blank" href="https://www.linkedin.com/in/ronan-lee/"><i className="fa fa-linkedin-square"></i></a>
