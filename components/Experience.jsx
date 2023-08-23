@@ -5,7 +5,7 @@ function Experience() {
         <h2 className="mb-5">Experience</h2>
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-            <h3 className="mb-0">Web Developer</h3>
+            <h3 className="mb-0">Senior Web Developer</h3>
             <div className="subheading mb-3">Contrib.com</div>
             <ul>
                 <li>Developed chatbot AI with custom knowledge base</li>
