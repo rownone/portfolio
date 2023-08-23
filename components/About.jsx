@@ -7,7 +7,7 @@ function About() {
                 <span className="text-primary">Lee</span>
             </h1>
             <div className="subheading mb-5">
-                474 Moffat St S, Prince George, BC, Canada<br/> 
+                482 Moffat St South, Prince George BC V2M3L5 Canada<br/> 
                 <a href="mailto:ronan.t.lee@gmail.com">ronan.t.lee@gmail.com</a>
             </div>
             
