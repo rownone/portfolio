@@ -117,7 +117,7 @@ function Experience() {
                 </div>
             </div>
             </div>
-            <div className="flex-shrink-0"><span className="text-primary">May 2010 - Present</span></div>
+            <div className="flex-shrink-0"><span className="text-primary">May 2010 - August 2023 </span></div>
         </div>
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
